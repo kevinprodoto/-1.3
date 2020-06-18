@@ -63,7 +63,12 @@ body {
     margin: 0;
 }
 .buttons__label {
-   margin-top: 8px;
+    margin-top: 8px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #1B1C21;
+    font-weight: 500;
 }
 .buttons--hidden {
     display: none;
@@ -117,7 +122,7 @@ body {
     line-height: 24px;
     letter-spacing: -0.2px;
     color: #1B1C21;
-    font-weight: 550;
+    font-weight: 500;
     display: block;
 }
 .article__text {
