@@ -135,17 +135,6 @@ body {
 .article__icon {
     margin-right: 13px;
 }
-@media (max-width: 768px) {
-    .header__divider--hidden {
-    display: none;
-    }
-    .article__text-laptop {
-    display: none;
-    }
-    .header__block--hidden {
-    display: none;
-    }
-}
 @media (min-width: 768px) and (max-width: 1120px) {
     .article__text-laptop {
         display: inline;
