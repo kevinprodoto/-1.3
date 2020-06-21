@@ -93,7 +93,7 @@ body {
     list-style-type: none;
     
 }
-.menu__archon:active {
+.menu__archon:hover {
     border: 2px solid #B8FFEC;
     border-radius: 6px;
     background-color: #FFFFFF;
